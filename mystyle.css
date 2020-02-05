@@ -1,0 +1,8 @@
+body{background-image:url("image/coffee.png");}
+body{background-size:100% 10%;}
+body{background-repeat: no-repeat;}
+h1{color:white}
+h2{color:white}
+h3{color:black}
+div{color: black}
+h1{border-bottom: solid 2px navy}
